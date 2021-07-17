@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\bin\Debug\netcoreapp3.1\exe_employment_contracts_01.exe
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\bin\Debug\netcoreapp3.1\exe_employment_contracts_01.deps.json
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\bin\Debug\netcoreapp3.1\exe_employment_contracts_01.runtimeconfig.json
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\bin\Debug\netcoreapp3.1\exe_employment_contracts_01.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\bin\Debug\netcoreapp3.1\exe_employment_contracts_01.dll
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\bin\Debug\netcoreapp3.1\exe_employment_contracts_01.pdb
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\obj\Debug\netcoreapp3.1\exe_employment_contracts_01.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\obj\Debug\netcoreapp3.1\exe_employment_contracts_01.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\obj\Debug\netcoreapp3.1\exe_employment_contracts_01.AssemblyInfo.cs
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\obj\Debug\netcoreapp3.1\exe_employment_contracts_01.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\obj\Debug\netcoreapp3.1\exe_employment_contracts_01.dll
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\obj\Debug\netcoreapp3.1\exe_employment_contracts_01.pdb
+C:\Users\ACER\source\repos\exe_employment_contracts_01\exe_employment_contracts_01\obj\Debug\netcoreapp3.1\exe_employment_contracts_01.genruntimeconfig.cache
