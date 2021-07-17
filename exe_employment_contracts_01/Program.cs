@@ -46,7 +46,6 @@ namespace exe_employment_contracts_01
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Department: " + dept.Name);
             Console.WriteLine("Income for " + monthandyear + " :" + worker.Income(year, month), CultureInfo.InvariantCulture);
-            
 
         }
     }
