@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using exe_employment_contracts_01.Entities.Enum;
+
 namespace exe_employment_contracts_01.Entities
 {
     class Worker
@@ -14,7 +15,7 @@ namespace exe_employment_contracts_01.Entities
         {
         }
 
-        public Worker(string name, WorkerLevel level,Department dept, double baseSalary)
+        public Worker(string name, WorkerLevel level, double baseSalary, Department dept)
         {
             Name = name;
             Level = level;
@@ -34,6 +35,7 @@ namespace exe_employment_contracts_01.Entities
         public double Income(int year, int month) 
         {
             double Sum = BaseSalary;
+
             foreach (HourContract contract in Contracts) 
             { 
                 if (contract.Date.Year == year && contract.Date.Month == month) 

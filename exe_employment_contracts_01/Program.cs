@@ -20,7 +20,7 @@ namespace exe_employment_contracts_01
             double baseSalary = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
 
             Department dept = new Department(deptname);
-            Worker worker = new Worker(name,level,dept,baseSalary);
+            Worker worker = new Worker(name,level, baseSalary, dept);
 
             Console.Write("How many contracts to this worker? ");
             int n = int.Parse(Console.ReadLine());
@@ -41,11 +41,11 @@ namespace exe_employment_contracts_01
             }
             Console.Write("Enter month and year to calculate income (MM/YYYY):");
             string monthandyear = Console.ReadLine();
-            int month = int.Parse(monthandyear.Substring(0,2));
+            int month = int.Parse(monthandyear.Substring(0, 2));
             int year = int.Parse(monthandyear.Substring(3));
             Console.WriteLine("Name: " + worker.Name);
-            Console.WriteLine("Department: " + dept.Name);
-            Console.WriteLine("Income for " + monthandyear + " :" + worker.Income(year, month), CultureInfo.InvariantCulture);
+            Console.WriteLine("Department: " + worker.Department.Name);
+            Console.WriteLine("Income for " + monthandyear + " :" + worker.Income(year, month).ToString("F2",CultureInfo.InvariantCulture));
 
         }
     }
